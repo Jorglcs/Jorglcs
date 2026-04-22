@@ -1,16 +1,28 @@
-## Hi there 👋
+[![Header](https://raw.githubusercontent.com/jorglcs/jorglcs/main/capa.png)]()
 
-<!--
-**Jorglcs/Jorglcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right">
+  <a href="https://www.linkedin.com/in/jorge-luiz-siqueira/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+# Hey! What's up? 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## whoami
+- ☁️ Cloud Infrastructure Intern
+- 💻 Future DevOps Engineer
+- 📍 Brazil
+🎓 Studying **Analysis and Systems Development (ADS)** at SPTech School
+- 🎂 19 years old
+- 🚀 Focused on cloud, automation and backend
+- 🎮 Indie games enjoyer
+
+## Learning & Technologies 📚
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,aws,terraform,gitlab,js,html,css,linux,docker,kubernetes" />
+  </a>
+</p>
+
+## Certfications 🚧
+- 🔨 Coming soon...
