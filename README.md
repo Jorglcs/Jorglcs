@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/jorglcs/jorglcs/main/capa.png)]()
+[![Header](https://raw.githubusercontent.com/jorglcs/jorglcs/main/capa.jpg)]()
 
 <p align="right">
   <a href="https://www.linkedin.com/in/jorge-luiz-siqueira/">
