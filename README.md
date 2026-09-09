@@ -25,5 +25,5 @@
 </p>
 
 ## Certfications 🚧
-<img src="https://github.com/turboBasic/aws-certification-badges/blob/main/assets/vector%20rendered/aws-certified-cloud-practitioner.svg" width="150">
+<img src="https://github.com/turboBasic/aws-certification-badges/blob/main/assets/vector%20rendered/aws-certified-cloud-practitioner.svg" width="100">
 
