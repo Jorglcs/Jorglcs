@@ -20,7 +20,7 @@
 ## Learning & Technologies 📚
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,aws,terraform,gitlab,js,html,css,linux,docker,kubernetes,jenkins" />
+    <img src="https://skillicons.dev/icons?i=java,aws,terraform,gitlab,js,html,css,linux,docker,kubernetes,jenkins,github" />
   </a>
 </p>
 
