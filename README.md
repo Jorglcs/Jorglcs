@@ -25,4 +25,5 @@
 </p>
 
 ## Certfications 🚧
-- 🔨 Coming soon...
+<img src="https://github.com/turboBasic/aws-certification-badges/blob/main/assets/vector%20rendered/aws-certified-cloud-practitioner.svg">
+
